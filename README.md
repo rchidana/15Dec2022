@@ -1,6 +1,9 @@
 # 15Dec2022
 
-PDF Links for Reference : https://drive.google.com/drive/folders/11YkXrziAG3f-U7XnfyawJ2kAu-5Metjr?usp=sharing
+PDF Links for Today's Reference : https://drive.google.com/drive/folders/11YkXrziAG3f-U7XnfyawJ2kAu-5Metjr?usp=sharing
+
+Detailed PDFs for DevOps Tools from my Corp Training Sessions can be found here : 
+https://drive.google.com/drive/folders/1spz_bxLOic4Bit7-YNni72YAqtWaskSX?usp=sharing
 
 ### Installing Latest Docker CE on Ubuntu:
 
